@@ -1,0 +1,93 @@
+baseURL: "https://yourconference.com"
+languageCode: "en-us"
+title: "Caribbean Security Conference"
+theme: "islaind"
+
+params:
+  author: "Conference Organizers"
+  description: "Annual Caribbean Cybersecurity Conference"
+  email: "info@yourconference.com"
+  phone: "+1-xxx-xxx-xxxx"
+  address: "Caribbean Islands"
+
+  # Logo and branding
+  logo: "images/logo.png"
+  logo_width: "150px"
+  favicon: "images/favicon.png"
+
+  # Hero section
+  hero:
+    enable: true
+    title: "Caribbean Security Conference 2024"
+    subtitle: "Join us for the premier cybersecurity event in the Caribbean"
+    background_image: "images/hero-bg.jpg"
+    button_text: "Register Now"
+    button_link: "/register"
+
+  # Social media
+  social:
+    twitter: "https://twitter.com/yourconference"
+    facebook: "https://facebook.com/yourconference"
+    linkedin: "https://linkedin.com/company/yourconference"
+    instagram: "https://instagram.com/yourconference"
+
+  # Contact info
+  contact:
+    enable: true
+    title: "Get In Touch"
+    subtitle: "Have questions? We would love to hear from you."
+
+  # Google Analytics
+  google_analytics_id: ""
+
+  # SEO
+  meta_image: "images/meta-image.jpg"
+  meta_description: "Join us for the annual Caribbean Cybersecurity Conference featuring world-class speakers, networking opportunities, and cutting-edge security insights."
+
+# Menu configuration
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about"
+      weight: 2
+    - name: "Speakers"
+      url: "/speakers"
+      weight: 3
+    - name: "Schedule"
+      url: "/schedule"
+      weight: 4
+    - name: "Pricing"
+      url: "/pricing"
+      weight: 5
+    - name: "Sponsors"
+      url: "/sponsors"
+      weight: 6
+    - name: "Contact"
+      url: "/contact"
+      weight: 7
+
+# Markup settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: "github"
+    lineNos: true
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Taxonomies
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  speaker: "speakers"
+  track: "tracks"

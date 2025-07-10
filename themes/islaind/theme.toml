@@ -1,0 +1,17 @@
+name = "Islaind"
+license = "MIT"
+licenselink = "https://github.com/your-username/islaind-hugo-theme/blob/main/LICENSE"
+description = "A modern, responsive Hugo theme designed for conferences and events, featuring Caribbean-inspired design elements and comprehensive functionality."
+homepage = "https://github.com/your-username/islaind-hugo-theme"
+tags = ["conference", "event", "business", "corporate", "responsive", "modern", "bootstrap", "caribbean", "security", "tech"]
+features = ["responsive", "bootstrap", "multilingual", "search", "social", "analytics", "seo", "accessibility"]
+min_version = "0.100.0"
+
+[author]
+  name = "Caribbean Security Conference Team"
+  homepage = "https://caribbeansecurityconf.com"
+
+[original]
+  name = "Islaind"
+  homepage = "https://github.com/your-username/islaind-hugo-theme"
+  repo = "https://github.com/your-username/islaind-hugo-theme"
