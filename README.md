@@ -624,27 +624,6 @@ We welcome contributions! To contribute:
 
 This theme is licensed under the MIT License. See LICENSE file for details.
 
-## 🆘 Support
-
-### Documentation
-
-- [Hugo Documentation](https://gohugo.io/documentation/)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/)
-- [AOS Animation Library](https://michalsnik.github.io/aos/)
-
-### Community Support
-
-- **GitHub Issues**: Report bugs and request features
-- **Discussions**: Ask questions and share ideas
-- **Email**: support@islaind-theme.com
-
-### Professional Support
-
-For custom development and professional support:
-- **Email**: pro@islaind-theme.com
-- **Consultation**: Available for theme customization
-- **Training**: Hugo and theme development workshops
-
 ## 🎉 Showcase
 
 Sites using Islaind theme:
@@ -691,17 +670,6 @@ Upcoming features:
 - [ ] E-commerce integration
 - [ ] Advanced search functionality
 - [ ] Social media integration widgets
-
----
-
-## 📞 Contact
-
-For questions, support, or feedback:
-
-- **Email**: hello@islaind-theme.com
-- **Website**: https://islaind-theme.com
-- **GitHub**: https://github.com/yourusername/islaind-hugo-theme
-- **Twitter**: @IslaindTheme
 
 ---
 
